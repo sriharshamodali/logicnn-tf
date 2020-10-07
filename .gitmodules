@@ -1,0 +1,3 @@
+[submodule "JRoboCom"]
+	path = JRoboCom
+	url = https://github.com/theHilikus/JRoboCom
